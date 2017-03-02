@@ -1,3 +1,9 @@
+> # MODULE DISCONTINUED
+> - If you're using PrestaShop, use the official one: https://addons.prestashop.com/en/payment-card-wallet/24996-stripe-official.html 
+> - If you're using thirty bees, use the thirty bees one: https://github.com/thirtybees/stripe  
+>  
+> This means NO SUPPORT, NO MORE UPDATES and THE MODULE WILL NOT WORK, so please stop messaging me, unless it is about [the thirty bees version](https://github.com/thirtybees/stripe)
+
 # Stripe
 ![Stripe](/views/img/stripebtnlogo.png)
 
